@@ -1,6 +1,6 @@
 # Website for personal branding 
 
-This repository is for my own website on vercel. It displays my resume and my skills
+This repository is for my own website on vercel. It displays my resume, and my interests
 
 ## Deploy Your Own
 
