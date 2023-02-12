@@ -2,9 +2,9 @@
 
 This repository is for my own website on vercel. It displays my resume, and my interests
 
-## Deploy Your Own
+## Deployment
 
-Deploy your own Create React App project with Vercel.
+Deploy by: 
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
 
